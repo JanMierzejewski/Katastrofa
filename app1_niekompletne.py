@@ -1,5 +1,6 @@
 # źródło danych [https://www.kaggle.com/c/titanic/](https://www.kaggle.com/c/titanic)
-
+#adres apki: https://janmierzejewski-katastrofa-app1-niekompletne-8ou44v.streamlit.app/
+#repo: https://github.com/JanMierzejewski/Katastrofa
 import streamlit as st
 import pickle
 from datetime import datetime
